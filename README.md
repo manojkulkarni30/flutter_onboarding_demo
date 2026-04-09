@@ -1,17 +1,30 @@
-# flutter_onboarding_demo
+# Flutter Onboarding Screen
 
-A new Flutter project.
+A beautiful and production-ready onboarding flow built in Flutter.
 
-## Getting Started
+This project demonstrates how to create a modern onboarding experience with:
 
-This project is a starting point for a Flutter application.
+- Swipeable onboarding pages using `PageView.builder`
+- Animated page indicators using `AnimatedContainer`
+- Dynamic button text (`Next` → `Get Started`)
+- Navigation using `PageController`
+- Persistent onboarding state using `SharedPreferences`
+- Automatic skip of onboarding after the first app launch
 
-A few resources to get you started if this is your first Flutter project:
+## Watch the Full Tutorial
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+📺 YouTube Video: [Flutter Onboarding Screen Tutorial 🔥 Step-by-Step](https://bit.ly/4c7s8wp)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Channel: [Manoj Kulkarni](https://bit.ly/41Ryons)
+
+---
+
+## Connect
+
+If you found this project useful, consider:
+
+- Starring the repository
+- Sharing it with other Flutter developers
+- Subscribing to the YouTube channel for more Flutter tutorials
+
+---
