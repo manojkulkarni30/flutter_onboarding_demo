@@ -18,4 +18,12 @@ class PreferencesService {
   Future<bool?> getBool(String key) async {
     return await _prefs.getBool(key);
   }
+
+  Future<void> setString(String key, String value) async {
+    await _prefs.setString(key, value);
+  }
+
+  Future<String?> getString(String key) async {
+    return await _prefs.getString(key);
+  }
 }
